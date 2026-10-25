@@ -27,6 +27,7 @@ My work combines frontend design, backend logic, and product thinking — from e
 - E-commerce and booking platforms
 - Real-time chat and communication apps
 - Secure authentication systems
+- Smart transportation and mobility systems
 - Clean, maintainable, and user-focused interfaces
 
 ## Skills
@@ -93,10 +94,16 @@ A travel and booking-inspired app with engaging UI and practical booking flow lo
 - Live project: https://natoursbooking.vercel.app
 - Repo: https://github.com/ahmed-Riiiad/Natours_Booking
 
-### 🚍 Bus Tracking System
-A transport-focused platform designed for visibility, route tracking, and user convenience.
+### 🚍 Smart Bus
+A smart transportation platform designed to improve route visibility, trip monitoring, and overall commuter experience.
 
-- Repo: https://github.com/ahmed-Riiiad/Bus-tracking-system
+- Real-time bus tracking
+- Route and schedule management
+- User-friendly interface for passengers and operators
+- Efficient transport planning and monitoring
+- Smart mobility solution for everyday travel
+
+- Repo: https://github.com/ahmed-Riiiad/Smart-Bus
 
 ### 💬 Real-Time Chat App
 A chat app centered on live communication and smooth interaction flow.
