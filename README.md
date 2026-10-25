@@ -1,11 +1,11 @@
-# Hi, I'm Ahmed Riad Sayed 👋
+# Hi, I'm Ahmed Riad 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineer;Web+App+Builder;UI%2FUX+Focused;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ahmed-Riiiad.png" alt="Ahmed Riad Sayed" width="180" height="180" style="border-radius:50%;" />
+  <img src="https://github.com/ahmed-Riiiad.png" alt="Ahmed Riad" width="180" height="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
