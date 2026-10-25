@@ -94,7 +94,7 @@ A travel and booking-inspired app with engaging UI and practical booking flow lo
 - Live project: https://natoursbooking.vercel.app
 - Repo: https://github.com/ahmed-Riiiad/Natours_Booking
 
-### 🚍 Smart Bus
+### 🚍 Smart Bus Application
 A smart transportation platform designed to improve route visibility, trip monitoring, and overall commuter experience.
 
 - Real-time bus tracking
@@ -103,7 +103,7 @@ A smart transportation platform designed to improve route visibility, trip monit
 - Efficient transport planning and monitoring
 - Smart mobility solution for everyday travel
 
-- Repo: https://github.com/ahmed-Riiiad/Smart-Bus
+- Repo: https://github.com/ahmed-Riiiad/smart-bus-application
 
 ### 💬 Real-Time Chat App
 A chat app centered on live communication and smooth interaction flow.
